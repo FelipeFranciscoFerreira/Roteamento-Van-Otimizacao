@@ -42,4 +42,4 @@ O sistema simula o processo evolutivo para resolver um problema de otimização 
 ---
 
 ## Autor
-Desenvolvido por **Felipe Francisco Ferreira** como parte dos estudos de graduação em Ciência da Computação.
+Desenvolvido por **Felipe Francisco Ferreira**
